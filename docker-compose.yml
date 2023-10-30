@@ -1,0 +1,13 @@
+version: 'latest'
+
+services:
+  postgres:
+    image:  postgres
+    ports:
+      - '8080:8080
+    volumes:
+      - ./data:/var/lib/postgres
+    environment:
+      POSTGRES_DB: app
+      POSTGRES_USER: app
+      POSTGRES_PASSWORD: 9mREsvXDs9Gk89Ef
