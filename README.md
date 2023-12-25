@@ -67,4 +67,4 @@
 
 * ### [План автоматизации тестирования](https://github.com/danlisov/DiplomaProject/blob/main/Plan.md#план-автоматизации-тестирования-вэб-сервиса-для-покупки-тура-с-оплатой-дебетовой-или-кредитной-картой)
 * ### [Отчёт о проведённом тестировании](https://github.com/danlisov/DiplomaProject/blob/main/Report.md)
-* ### [Отчёт о проведённой автоматизации]()
+* ### [Отчёт о проведённой автоматизации](https://github.com/danlisov/DiplomaProject/blob/main/Summary.md)
