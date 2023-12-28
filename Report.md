@@ -6,7 +6,7 @@
 - Уникальной технологии: выдачи кредита по данным банковской карты.
 
 ## Тестовое окружение:
- - Операционная система: Windows 11 Pro
+ - Операционная система: Windows 10 Pro
  - Java: OpenJDK version 11.0.21
  - IDE: IntelliJ IDEA Community Edition 2023.3
  - Docker Desktop: version 4.26.0
