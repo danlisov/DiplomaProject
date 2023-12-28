@@ -6,7 +6,7 @@
 
 Чтобы получить локальную копию проекта, необходимо склонировать репозиторий командой 
 
-*git clone git@github.com:EkaterinaEv/Diploma.git*
+*git clone github.com/danlisov/DiplomaProject.git*
 
 
 ## Prerequisites
