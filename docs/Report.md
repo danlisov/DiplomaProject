@@ -6,7 +6,7 @@
 - Уникальной технологии: выдачи кредита по данным банковской карты.
 
 ## Тестовое окружение:
- - Операционная система: Windows 11 Pro
+ - Операционная система: Windows 10 Pro
  - Java: OpenJDK version 11.0.21
  - IDE: IntelliJ IDEA Community Edition 2023.3
  - Docker Desktop: version 4.26.0
@@ -17,14 +17,14 @@
 - тестирование UI – 50 тестов, из них 34 Passed, 16 Failed.
 - тестирование API – 16 тестов, из них 2 Passed, 14 Failed.
 
-![Снимок экрана 2023-12-16 144210](https://github.com/EkaterinaEv/Diploma/assets/135538938/38228e04-b3ca-418f-90d5-347768982d04)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/1.png)
 
-![Снимок экрана 2023-12-16 144301](https://github.com/EkaterinaEv/Diploma/assets/135538938/c3b73946-12d8-44e7-b824-15cbc7ae2ea5)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/2.png)
 
-![Снимок экрана 2023-12-16 144353](https://github.com/EkaterinaEv/Diploma/assets/135538938/fa74cd50-170f-4179-8974-68634e82224e)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/3.png)
 
-![Снимок экрана 2023-12-16 144452](https://github.com/EkaterinaEv/Diploma/assets/135538938/7a178c3a-310c-44fc-acd9-83a6ed890c31)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/4.png)
 
-![Снимок экрана 2023-12-16 144519](https://github.com/EkaterinaEv/Diploma/assets/135538938/f9ed3475-bb45-4b3f-b67a-3e0e8eb01d55)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/5.png)
 
-![Снимок экрана 2023-12-16 144542](https://github.com/EkaterinaEv/Diploma/assets/135538938/8fa9eeb7-8419-45c4-8b99-7de132339a04)
+![Снимок экрана 2023-12-28](https://github.com/danlisov/DiplomaProject/blob/main/report%20img/6.png)
